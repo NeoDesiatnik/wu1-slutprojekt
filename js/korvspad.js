@@ -214,7 +214,7 @@ upgrades = [
     {
         name: 'TOTAL FÖRSLAVNING',
         cost: 15000000*costmultiplier,
-        url: "../korvrester31287.html"
+        url: "./korvrester31287.html"
     },
 ];
 
