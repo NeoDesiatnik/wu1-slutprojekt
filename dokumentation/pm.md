@@ -10,11 +10,6 @@ Syftet av detta arbete är att göra ett clickerspel som baseras på tragedier i
 
 Först använder jag clickern som vi gjorde under tidigare lektioner, den hade 2 nivåer originellt och jag tänker då lägga till 4 till genom att länka uppgraderingar till html dokument. För att kunna länka en uppgradering till ett html dokument så behöver jag "window.location.assign" och sedan behövs bara en modifier för att öka kostnaden utan att behöva ändra alla individuella, för det skriver jag "let multiplier = X" och sedan ta uppgraderingskostnaden och multiplicera den med multiplier. Det låter mig ändra X en gång för att ändra priset på allt.
 
-```
-![GitHub Logo](/images/4.jpg)
-Format: ![Alt Text](url)
-```
-
 ![beast boy 4 fingers up](../img/4.jpg)
 
 ## Positiva erfarenheter
