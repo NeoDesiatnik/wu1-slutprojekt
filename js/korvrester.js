@@ -214,7 +214,7 @@ upgrades = [
     {
         name: 'VÄRLDSHERRAVÄLDE',
         cost: 15000000*costmultiplier,
-        url: "../slutpakorv55555.html"
+        url: "./slutpakorv55555.html"
     },
 ];
 
