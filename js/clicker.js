@@ -206,7 +206,7 @@ upgrades = [
     {
         name: 'TOTAL UTROTNING',
         cost: 15000000,
-        url: "../korv879132.html"
+        url: "./korv879132.html"
     },
 ];
 
