@@ -214,7 +214,7 @@ upgrades = [
     {
         name: 'Mr White (nästa tragedi)',
         cost: 15000000*costmultiplier,
-        url: "../WWIII.html"
+        url: "./WWIII.html"
     },
 ];
 
