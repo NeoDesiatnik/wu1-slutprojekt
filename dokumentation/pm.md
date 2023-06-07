@@ -1,6 +1,4 @@
-# Titel
-
-Neo Bäckström Desiatnik Slutprojekt - 24/5-23.
+# Neo Bäckström Desiatnik Slutprojekt - 24/5-23.
 
 ## Inledning
 
