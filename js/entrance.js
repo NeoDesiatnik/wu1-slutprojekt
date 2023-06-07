@@ -165,7 +165,7 @@ upgrades = [
     {
         name: 'Klicka här för att gå vidare',
         cost: 0,
-        url: "../korv.html"
+        url: "./korv.html"
     },
 ];
 
